@@ -4,15 +4,11 @@
 
 - Fork this repo when the url is shared in slack
 
-## how do clone a repo to be available on our local?
+## how do we clone a repo to be available on our local?
 
 - For discussion and then for all to clone
 
 ## how do we move changes from working folder to staging?
-
-- Type the commands and any extra info you want to share here
-
-## how do we move changes from staging folder to the local repo?
 
 - Type the commands and any extra info you want to share here
 
