@@ -2,7 +2,7 @@
 
 ## how do we fork a repo? 
 
-- Open the link sent via Slack, click the 'Fork" button top right and then clone with our forked repo in VS.
+- Open the link sent via Slack, click the 'Fork' button top right and then clone with our forked repo in VS.
 
 ## how do clone a repo to be available on our local?
 
