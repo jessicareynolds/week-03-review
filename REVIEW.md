@@ -2,43 +2,48 @@
 
 ## how do we fork a repo? 
 
-- Fork this repo when the url is shared in slack
+- Open the link sent via Slack, click the 'Fork" button top right and then clone with our forked repo in VS.
 
 ## how do clone a repo to be available on our local?
 
-- For discussion and then for all to clone
+- We use the command, 'git clone' and paste the url we copied from GitHub.
 
 ## how do we move changes from working folder to staging?
 
-- Type the commands and any extra info you want to share here
+- First, 'cd' into the folder where you want to work
+- Second, we need to make a working branch. 'git checkout -b answer'
+- Third, let's check our status. It's good practice! 'git status'
+- Once you've edited and saved! your file, it's time to move from the staging folder to the local repo.
 
 ## how do we move changes from staging folder to the local repo?
 
-- Type the commands and any extra info you want to share here
-
-## how do we move changes from staging folder to the local repo?
-
-- Type the commands and any extra info you want to share here
+- First, we 'git status' we should expect a red file. This shows us that it is still in the staging folder.
+- Second, we must add it to the local repo. 'git add' the name of your file.
+- The command 'add .' adds all of the files you want to push
 
 ## how do we confirm what is in the local repo
 
-- Type the commands and any extra info you want to share here
+- Next, we 'git status' again and we should expect a green file.
+- We need to commit the file, with a nice message letting viewers know what's going on. 'git commit -m""'
+- To push up to the repo, 'git push'
+- A push upstream command prompt will tell us we need to copy/paste that command
+- Do it! From there you should be able to pull back from GitHub.
 
 ## how do we confirm what is in the remote repo
 
-- Type the commands and any extra info you want to share here
+- I think! 'git fetch'
 
 ## how do we confirm the url of our git remotes?
 
-- Type the commands and any extra info you want to share here
+- Once the file is pushed, a link with the URL will respond, and we click on it, following the link to GitHub, where we can create a pull request.
 
 ## how many and what sections are in an html document
 
-Type your answer here, use git commands to 
+There are two second in an HTML doc: the head, and the body
 
 ## there are two ways to reference css in the header - show examples of two tags that are used for styling
 
-Type your answer here and push it up
+- var, let, aaaand ____
 
 ## 3 - how many ways can you declare a variable
 ## hint - 1 old school way - the new ways
