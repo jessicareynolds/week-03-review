@@ -14,12 +14,25 @@
 - Second, we need to make a working branch. 'git checkout -b answer'
 - Third, let's check our status. It's good practice! 'git status'
 - Once you've edited and saved! your file, it's time to move from the staging folder to the local repo.
+<<<<<<< HEAD
 
 ## how do we move changes from staging folder to the local repo?
 
 - First, we git status we should expect a red file. This shows us that it is still in the staging folder.
 - Second, we must add it to the local repo. 'git add' the name of your file.
 
+=======
+
+## how do we move changes from staging folder to the local repo?
+
+<<<<<<< HEAD
+- First, we 'git status' we should expect a red file. This shows us that it is still in the staging folder.
+- Second, we must add it to the local repo. 'git add' the name of your file.
+- The command 'add .' adds all of the files you want to push
+=======
+- Type the commands and any extra info you want to share here
+>>>>>>> 7fed6d5b80c10f9865b4252fafbde1f247b2e870
+>>>>>>> 69a5f6a06015194a2bf96f55cc7ddcf3242a4c69
 
 ## how do we confirm what is in the local repo
 
