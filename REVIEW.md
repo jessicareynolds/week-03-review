@@ -4,7 +4,7 @@
 
 - Open the link sent via Slack, click the 'Fork' button top right and then clone with our forked repo in VS.
 
-## how do clone a repo to be available on our local?
+## how do we clone a repo to be available on our local?
 
 - We use the command, 'git clone' and paste the url we copied from GitHub.
 
@@ -17,9 +17,13 @@
 
 ## how do we move changes from staging folder to the local repo?
 
+<<<<<<< HEAD
 - First, we 'git status' we should expect a red file. This shows us that it is still in the staging folder.
 - Second, we must add it to the local repo. 'git add' the name of your file.
 - The command 'add .' adds all of the files you want to push
+=======
+- Type the commands and any extra info you want to share here
+>>>>>>> 7fed6d5b80c10f9865b4252fafbde1f247b2e870
 
 ## how do we confirm what is in the local repo
 
